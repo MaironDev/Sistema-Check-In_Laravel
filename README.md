@@ -16,6 +16,11 @@
 
 # DEPENDENCIAS Y PAQUETES
 
+Laravel 8.1.4
+Bulma Framework CSS
+
+
+
 - composer install 
 - composer update 
 - npm install
