@@ -13,3 +13,17 @@
 <a href="#"><img src="https://i.ibb.co/RT1HKzB/Estructura-de-la-DB.jpg" alt="Estructura-de-la-DB" border="0"></a>
 ## Codigo
 <a href="#"><img src="https://i.ibb.co/VQQzTbc/codigo.jpg" alt="codigo" border="0"></a>
+
+# DEPENDENCIAS Y PAQUETES
+
+- composer install 
+- composer update 
+- npm install
+- npm run dev
+- php artisan migrate
+- php artisan serve
+
+Parcial Electiva B2 
+Mairon Hernandez 
+Jesus Anaya
+
